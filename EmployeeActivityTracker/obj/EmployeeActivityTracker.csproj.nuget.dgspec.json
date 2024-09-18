@@ -1,0 +1,89 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Libraries\\Code\\VisualStudioProjects\\EmployeeActivityTracker\\EmployeeActivityTracker\\EmployeeActivityTracker.csproj": {}
+  },
+  "projects": {
+    "D:\\Libraries\\Code\\VisualStudioProjects\\EmployeeActivityTracker\\EmployeeActivityTracker\\EmployeeActivityTracker.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Libraries\\Code\\VisualStudioProjects\\EmployeeActivityTracker\\EmployeeActivityTracker\\EmployeeActivityTracker.csproj",
+        "projectName": "Employee Activity Tracker",
+        "projectPath": "D:\\Libraries\\Code\\VisualStudioProjects\\EmployeeActivityTracker\\EmployeeActivityTracker\\EmployeeActivityTracker.csproj",
+        "packagesPath": "C:\\Users\\salbe\\.nuget\\packages\\",
+        "outputPath": "D:\\Libraries\\Code\\VisualStudioProjects\\EmployeeActivityTracker\\EmployeeActivityTracker\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "D:\\Program Files\\Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\salbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "D:\\Desktop\\К ЭКЗАМЕНУ\\biblio-test": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "MaterialSkin.2": {
+              "target": "Package",
+              "version": "[2.3.1, )"
+            },
+            "MegaApiClient": {
+              "target": "Package",
+              "version": "[1.10.4, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.Toolkit.Uwp.Notifications": {
+              "target": "Package",
+              "version": "[7.1.3, )"
+            },
+            "MouseKeyHook": {
+              "target": "Package",
+              "version": "[5.7.1, )"
+            },
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[2.3.6, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "System.Diagnostics.DiagnosticSource": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

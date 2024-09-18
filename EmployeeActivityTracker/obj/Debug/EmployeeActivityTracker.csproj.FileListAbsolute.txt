@@ -1,0 +1,33 @@
+D:\Libraries\Code\VisualStudioProjects\EmployeeActivityTracker\EmployeeActivityTracker\obj\Debug\EmployeeActivityTracker.csproj.AssemblyReference.cache
+D:\Libraries\Code\VisualStudioProjects\EmployeeActivityTracker\EmployeeActivityTracker\obj\Debug\EmployeeActivityTracker.csproj.SuggestedBindingRedirects.cache
+D:\Libraries\Code\VisualStudioProjects\EmployeeActivityTracker\EmployeeActivityTracker\obj\Debug\EmployeeActivityTracker.Properties.Resources.resources
+D:\Libraries\Code\VisualStudioProjects\EmployeeActivityTracker\EmployeeActivityTracker\obj\Debug\EmployeeActivityTracker.csproj.GenerateResource.cache
+D:\Libraries\Code\VisualStudioProjects\EmployeeActivityTracker\EmployeeActivityTracker\obj\Debug\EmployeeActivityTracker.csproj.CoreCompileInputs.cache
+D:\Libraries\Code\VisualStudioProjects\EmployeeActivityTracker\EmployeeActivityTracker\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Libraries\Code\VisualStudioProjects\EmployeeActivityTracker\EmployeeActivityTracker\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Libraries\Code\VisualStudioProjects\EmployeeActivityTracker\EmployeeActivityTracker\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Libraries\Code\VisualStudioProjects\EmployeeActivityTracker\EmployeeActivityTracker\bin\Debug\MySqlConnector.dll
+D:\Libraries\Code\VisualStudioProjects\EmployeeActivityTracker\EmployeeActivityTracker\bin\Debug\System.Buffers.dll
+D:\Libraries\Code\VisualStudioProjects\EmployeeActivityTracker\EmployeeActivityTracker\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Libraries\Code\VisualStudioProjects\EmployeeActivityTracker\EmployeeActivityTracker\bin\Debug\System.Memory.dll
+D:\Libraries\Code\VisualStudioProjects\EmployeeActivityTracker\EmployeeActivityTracker\bin\Debug\System.Numerics.Vectors.dll
+D:\Libraries\Code\VisualStudioProjects\EmployeeActivityTracker\EmployeeActivityTracker\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Libraries\Code\VisualStudioProjects\EmployeeActivityTracker\EmployeeActivityTracker\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Libraries\Code\VisualStudioProjects\EmployeeActivityTracker\EmployeeActivityTracker\obj\Debug\EmployeeActivityTracker.csproj.CopyComplete
+D:\Libraries\Code\VisualStudioProjects\EmployeeActivityTracker\EmployeeActivityTracker\bin\Debug\MaterialSkin.dll
+D:\Libraries\Code\VisualStudioProjects\EmployeeActivityTracker\EmployeeActivityTracker\obj\Debug\EmployeeActivityTracker.MainPage.resources
+D:\Libraries\Code\VisualStudioProjects\EmployeeActivityTracker\EmployeeActivityTracker\obj\Debug\EmployeeActivityTracker.SettingsPage.resources
+D:\Libraries\Code\VisualStudioProjects\EmployeeActivityTracker\EmployeeActivityTracker\bin\Debug\Employee Activity Tracker.exe.config
+D:\Libraries\Code\VisualStudioProjects\EmployeeActivityTracker\EmployeeActivityTracker\bin\Debug\Employee Activity Tracker.exe
+D:\Libraries\Code\VisualStudioProjects\EmployeeActivityTracker\EmployeeActivityTracker\bin\Debug\Employee Activity Tracker.pdb
+D:\Libraries\Code\VisualStudioProjects\EmployeeActivityTracker\EmployeeActivityTracker\obj\Debug\Employee Activity Tracker.exe
+D:\Libraries\Code\VisualStudioProjects\EmployeeActivityTracker\EmployeeActivityTracker\obj\Debug\Employee Activity Tracker.pdb
+D:\Libraries\Code\VisualStudioProjects\EmployeeActivityTracker\EmployeeActivityTracker\bin\Debug\Gma.System.MouseKeyHook.dll
+D:\Libraries\Code\VisualStudioProjects\EmployeeActivityTracker\EmployeeActivityTracker\bin\Debug\MegaApiClient.dll
+D:\Libraries\Code\VisualStudioProjects\EmployeeActivityTracker\EmployeeActivityTracker\bin\Debug\Newtonsoft.Json.dll
+D:\Libraries\Code\VisualStudioProjects\EmployeeActivityTracker\EmployeeActivityTracker\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+D:\Libraries\Code\VisualStudioProjects\EmployeeActivityTracker\EmployeeActivityTracker\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+D:\Libraries\Code\VisualStudioProjects\EmployeeActivityTracker\EmployeeActivityTracker\bin\Debug\System.ValueTuple.dll
+D:\Libraries\Code\VisualStudioProjects\EmployeeActivityTracker\EmployeeActivityTracker\obj\Debug\Employee Activity Tracker.exe.config
+D:\Libraries\Code\VisualStudioProjects\EmployeeActivityTracker\EmployeeActivityTracker\obj\Debug\EmployeeActivityTracker.KeyLogsPage.resources
+D:\Libraries\Code\VisualStudioProjects\EmployeeActivityTracker\EmployeeActivityTracker\obj\Debug\EmployeeActivityTracker.ScreenLogsPage.resources
